@@ -1,5 +1,5 @@
 # DataStructLib
-A Data Structures Library that supports singly linked lists, Doubly Linked Lists, Stacks, Queues, Binary Trees and Graphs
+A Data Structures Library that supports Singly Linked Lists, Doubly Linked Lists, Stacks, Queues, Binary Trees and Graphs
 
 ## Description
 This Library has implementations of 
@@ -10,7 +10,7 @@ This Library has implementations of
 * Binary Trees
 * Graphs
 
-All of these (except Doubly Linked Lists) can support Generics by using the pre processor to define variable types
+All of these (except Doubly Linked Lists) can support Generics by using the preprocessor to define variable types
 
 ## Build
 To build the library follow the following steps:
